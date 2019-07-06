@@ -15,6 +15,10 @@
 - [Python并行编程 中文版](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/)
 - [python-web-guide](https://python-web-guide.readthedocs.io/zh/latest/index.html#)
 
+## 系统设计
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
 ## 全栈
 
 - [phodal-全栈增长工程师指南](https://github.com/phodal/growth-ebook)
