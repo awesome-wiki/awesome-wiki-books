@@ -19,6 +19,10 @@
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
+## Linux
+
+- [穷佐罗的Linux书](https://zorro.gitbooks.io/poor-zorro-s-linux-book/content/)
+
 ## 全栈
 
 - [phodal-全栈增长工程师指南](https://github.com/phodal/growth-ebook)
