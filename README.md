@@ -1,6 +1,16 @@
 # awesome-it-files-for-me
 收集高质量值得一读的书籍
 
+## 容器化
+
+- [Kubernetes中文指南](https://jimmysong.io/kubernetes-handbook/)
+
+## DevOps
+
+- [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) Nginx 教程
+- [taobao/nginx-book](https://github.com/taobao/nginx-book) Nginx开发从入门到精通
+- [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) [阅读](https://yunlzheng.gitbook.io/prometheus-book/)
+
 ## 密码学
 
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com/) 实用的开发人员密码学。
@@ -14,6 +24,12 @@
 - [Python 进阶](https://github.com/eastlakeside/interpy-zh)
 - [Python并行编程 中文版](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/)
 - [python-web-guide](https://python-web-guide.readthedocs.io/zh/latest/index.html#)
+- [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) Python 进阶
+
+## Go
+
+- [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) 《Go 入门指南》
+- [mikespook/Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) 《学习 Go 语言》的第二版 [阅读](https://mikespook.com/learning-go/)
 
 ## 系统设计
 
@@ -32,7 +48,16 @@
 
 - [phodal-全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 
+## 机器学习
+
+- [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) Deep Learning 中文翻译
+
 ## 资源
 
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) 英文编程图书
 - [pythonbooks](https://pythonbooks.revolunet.com/) Python 英文技术图书
+
+## 书籍
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 对应[中文版](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) 很火的一个 repo ★★★
+- [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) 收录比较实用的计算机相关技术书籍
