@@ -23,6 +23,11 @@
 
 - [穷佐罗的Linux书](https://zorro.gitbooks.io/poor-zorro-s-linux-book/content/)
 
+## Java
+
+- [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books) Java 开发者技术书籍大全
+- [《On Java 8》中文版，又名《Java编程思想》 第5版](https://github.com/LingCoder/OnJava8) [阅读](https://lingcoder.gitee.io/onjava8/#/)
+
 ## 全栈
 
 - [phodal-全栈增长工程师指南](https://github.com/phodal/growth-ebook)
