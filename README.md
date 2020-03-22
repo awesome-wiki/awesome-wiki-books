@@ -1,5 +1,33 @@
-# awesome-it-files-for-me
-收集高质量值得一读的书籍
+
+<!-- 封面 logo -->
+<p align="center">
+    <a href="https://github.com/awesome-wiki/awesome-wiki-books" target="_blank">
+        <img src="https://gitee.com/michael_xiang/images/raw/master/uPic/awesome-wiki-books.png" width=""/>
+    </a>
+</p>
+
+<!-- 徽章（Badge） -->
+<p align="center">
+  <a href="https://michael728.github.io/">
+    <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Blog-brightgreen" alt="Blog">
+  </a>
+  <a href="#公众号">
+    <img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Coder%E9%AD%94%E6%B3%95%E9%99%A2-blue" alt="公众号">
+  </a>
+  <a href="#">
+    <img alt="GitHub" src="https://img.shields.io/github/license/awesome-wiki/awesome-wiki-books">
+  </a>
+</p>
+
+> 收集高质量值得一读的书籍！以可以在线阅读的为主~ 📚
+
+其他分享：
+- [微信](#联系我) ：乐于交志同道合的朋友，欢迎扫一扫，备注来源哈
+- [公众号：Coder魔法院](#公众号) ：因为懒，「不持续性」输出一些干货内容，技术、工具等 
+<!-- - [B 站：Coder魔法](https://space.bilibili.com/12316226)：因为懒，「不持续性」输出一些干货内容，技术、工具等的视频介绍 -->
+
+[在线阅读](https://awesome-wiki.github.io/awesome-wik-bookmarks/#/)
+
 
 ## 容器化
 
