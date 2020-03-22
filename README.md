@@ -92,3 +92,29 @@
 ## 资源
 
 - 更多的电子书资源可以在 [电子书下载网站](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/?id=%e7%94%b5%e5%ad%90%e4%b9%a6) 中搜索
+
+## 说明
+
+### Contributor
+
+可以采用如下方法推荐推荐你的「利器」🎯：
+
+- Fork 仓库 [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books) 提交 PR，推荐方式
+- 在下方留言
+- 加我[微信](#联系我)推荐
+
+> 如果推荐被收纳，将在下方列出贡献者!
+
+### 联系我
+<!-- tab 微信号@wechat -->
+![微信号](https://gitee.com/michael_xiang/images/raw/master/微信二维码-翔-250-250.jpeg)
+
+### 公众号
+<!-- tab 公众号@feed -->
+![公众号 Coder魔法院](https://gitee.com/michael_xiang/images/raw/master/微信公众号.jpg)
+
+### 支持
+
+> 码字不易，赏个茶叶蛋吧 👇
+
+![微信赞赏](http://ww1.sinaimg.cn/mw690/6d9475f6ly1fxa84rtvlhj20w00w00xp.jpg)
