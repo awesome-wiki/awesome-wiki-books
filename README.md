@@ -52,12 +52,12 @@
 
 - [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) Deep Learning 中文翻译
 
-## 资源
-
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) 英文编程图书
-- [pythonbooks](https://pythonbooks.revolunet.com/) Python 英文技术图书
-
-## 书籍
+## 综合
 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 对应[中文版](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) 很火的一个 repo ★★★
 - [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) 收录比较实用的计算机相关技术书籍
+- [pythonbooks](https://pythonbooks.revolunet.com/) Python 英文技术图书
+
+## 资源
+
+- 更多的电子书资源可以在 [电子书下载网站](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/?id=%e7%94%b5%e5%ad%90%e4%b9%a6) 中搜索
