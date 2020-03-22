@@ -4,8 +4,8 @@
     </a>
 </p>
 
-<h1 align="center">Java 技术栈的知识点索引</h1>
+<h1 align="center">收集高质量值得一读的书籍 📚</h1>
 
 [awesome-wiki 系列](https://github.com/awesome-wiki)
 [GitHub](https://github.com/awesome-wiki/awesome-wiki-books)
-[开始阅读](#)
+[开始阅读](#技术)
