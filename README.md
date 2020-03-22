@@ -92,6 +92,14 @@
 
 - 更多的电子书资源可以在 [电子书下载网站](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/?id=%e7%94%b5%e5%ad%90%e4%b9%a6) 中搜索
 
+## awesome-wiki
+
+[awesome-wiki](https://github.com/awesome-wiki) 系列将会持续更新，目前为止有如下可供阅读的 wiki：
+- [awesome-wiki-books](https://awesome-wiki.github.io/awesome-wiki-books/#/)
+- [awesome-wiki-bookmarks](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/)
+- [awesome-wiki-IT](https://awesome-wiki.github.io/awesome-wiki-IT/#/)
+- [awesome-wiki-java](https://awesome-wiki.github.io/awesome-wiki-java/#/)
+
 ## 说明
 
 ### Contributor
